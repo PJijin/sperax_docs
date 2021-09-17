@@ -4,11 +4,15 @@
 
 -   Web Preview
 
-[![web preview](https://github.com/PJijin/sperax_docs/blob/master/preview.png?raw=true 'web preview')]()
+[![web preview](https://raw.githubusercontent.com/PJijin/sperax_docs/main/preview.png 'web preview')]()
 
 -   Mobile Bottom Bar
 
-[![Mobile preview](https://github.com/PJijin/sperax_docs/blob/master/preview_mobile.png.png?raw=true 'Mobile preview')]()
+[![Mobile preview](https://raw.githubusercontent.com/PJijin/sperax_docs/main/preview_mobile.png 'Mobile preview')]()
+
+# Live Demo
+
+[https://sperax.vercel.app/](https://sperax.vercel.app/)
 
 # Installation
 
