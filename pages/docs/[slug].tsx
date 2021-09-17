@@ -52,7 +52,7 @@ export default function Post({ post }) {
 											href={`${Config.docs_repo}/docs/${post.slug}.md`}
 											className=" mt-5 md:mt-0 text-sm text-gray-400 hover:text-gray-800 cursor-pointer flex items-center"
 										>
-											<PencilAltIcon /> Edit Post
+											<PencilAltIcon className="w-5 h-5 text-gray-400 mr-1" /> Edit Post
 										</a>
 									</div>
 								</article>
